@@ -1,0 +1,14 @@
+View the Website: Open the `index.html` file in your web browser.
+
+Structure
+
+- `index.html`: The main HTML file.
+- `styles/main.less`: The main Less file that imports other styles.
+- `styles/box.less`: Less styles for the colored boxes.
+- `styles/footer.less`: Less styles for the footer.
+- `styles/nav.less`: Less styles for the navigation bar.
+- `styles/variables.less`: Less variables for colors and other properties.
+- `styles/main.css`: The generated CSS file (you can ignore this when committing to version control).
+- `styles/box.css`: The generated CSS file for box styles (you can ignore this when committing to version control).
+- `styles/footer.css`: The generated CSS file for footer styles (you can ignore this when committing to version control).
+- `styles/nav.css`: The generated CSS file for navigation bar styles (you can ignore this when committing to version control).
