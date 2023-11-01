@@ -1,0 +1,30 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+  margin: 0;
+  padding: 0;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+.nav .navbar {
+  position: fixed;
+  background-color: #bf724c;
+}
+.content {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.footer .footer {
+  background-color: #0000FF;
+  padding: 20px 0;
+  text-align: center;
+  color: #ffaaaa;
+  position: relative;
+  bottom: 0;
+  width: 100%;
+}
